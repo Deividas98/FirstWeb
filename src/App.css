@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+/*const styles = StyleSheet.create({
+ 
+  MainContainer :{
+    justifyContent: 'center',
+    flex:1,
+    margin: 10
+  },
+   
+  TextInputStyleClass: {
+    textAlign: 'center',
+    marginBottom: 7,
+    height: 40,
+    borderWidth: 1,
+    borderColor: '#2196F3',
+    borderRadius: 5 ,
+  },
+  
+  title:{
+    fontSize: 22, 
+    color: "#009688", 
+    textAlign: 'center', 
+    marginBottom: 15
+  }
+   
+  });*/
